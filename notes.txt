@@ -1,0 +1,2 @@
+//copies a specified number of bytes from a source memory location to a destination memory location
+  void *memcpy(void *dest, const void *src, size_t n);
